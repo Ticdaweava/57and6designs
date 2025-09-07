@@ -139,7 +139,7 @@
   <div class="footer-detail">
     <b>Risk:</b> Your website can be hijacked, abused by third parties, and customers can be tricked.<br>
     <b>Recommended Action:</b> <u>Add security headers</u> to block this kind of embedding immediately.<br>
-    <a class="action-btn" href="https://wixtechnicalunit.netify.app/" target="_blank" rel="noopener">Show How to Fix This</a>
+    <a class="action-btn" href="https://wixtechnicalunit.netify.app" target="_blank" rel="noopener">Show How to Fix This</a>
   </div>
 </div>
 
